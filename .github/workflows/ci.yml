@@ -2,8 +2,7 @@ name: Scraper CI
 
 on:
   push:
-    paths:
-      - 'scraper/**'
+    
 
 jobs:
   test:
